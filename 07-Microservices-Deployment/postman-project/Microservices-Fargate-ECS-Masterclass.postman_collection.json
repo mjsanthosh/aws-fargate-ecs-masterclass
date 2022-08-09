@@ -23,7 +23,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n\t\"username\": \"kalyan1\",\n\t\"email\": \"devsanthosh.doodleblue@gmail.com\",\n\t\"firstname\": \"Kalyan1\",\n\t\"lastname\": \"Reddy1\"\n\t\n}",
+							"raw": "{\n\t\"username\": \"Dev07\",\n\t\"email\": \"devsanthosh.doodleblue@gmail.com\",\n\t\"firstname\": \"Devsanthosh\",\n\t\"lastname\": \"Raj\"\n\t\n}",
 							"options": {
 								"raw": {
 									"language": "json"
