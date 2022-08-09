@@ -23,7 +23,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n\t\"username\": \"kalyan1\",\n\t\"email\": \"dkalyanreddy@gmail.com\",\n\t\"firstname\": \"Kalyan1\",\n\t\"lastname\": \"Reddy1\"\n\t\n}",
+							"raw": "{\n\t\"username\": \"kalyan1\",\n\t\"email\": \"devsanthosh.doodleblue@gmail.com\",\n\t\"firstname\": \"Kalyan1\",\n\t\"lastname\": \"Reddy1\"\n\t\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -75,7 +75,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n\t\"username\": \"kalyan1\",\n\t\"email\": \"dkalyanreddy@gmail.com\",\n\t\"firstname\": \"Kalyan1\",\n\t\"lastname\": \"Reddy1\"\n\t\n}",
+							"raw": "{\n\t\"username\": \"kalyan1\",\n\t\"email\": \"devsanthosh.doodleblue@gmail.com\",\n\t\"firstname\": \"Kalyan1\",\n\t\"lastname\": \"Reddy1\"\n\t\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -169,7 +169,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n\t\"subject\": \"Test4\",\n\t\"content\": \"Test4 Email\",\n\t\"toEmails\": [\"dkalyanreddy@gmail.com\"]\n}",
+							"raw": "{\n\t\"subject\": \"Test4\",\n\t\"content\": \"Test4 Email\",\n\t\"toEmails\": [\"devsanthosh.doodleblue@gmail.com\"]\n}",
 							"options": {
 								"raw": {
 									"language": "json"
